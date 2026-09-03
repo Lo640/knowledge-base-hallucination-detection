@@ -1,0 +1,20 @@
+# Go build and test artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+
+# Go tool cache created in this workspace
+.gocache/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
